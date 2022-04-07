@@ -6,7 +6,7 @@ from telebot import types
 from random import choice
 
 kinospis = []
-TOKEN = '5284570786:AAFir10v8xF3lGUyopsENWc0lgAfz9CGw4w'
+TOKEN = '5220484316:AAH8hWz7oGmQsfTCZuRZHPnjfu4saHZezUU'
 bot = telebot.TeleBot(TOKEN)
 joke = ['''– Пап, расскажи сказку?
         – В тридесятом царстве, однатретьем государстве...
